@@ -30,6 +30,8 @@ Magento Remove Dashboard Links
     unset($_links['recurring_profiles']); /* Recurring Profiles */
     unset($_links['billing_agreements']); /* Billing Agreements */
     unset($_links['enterprise_giftcardaccount']); /* Gift Card Link */
+    unset($_links['facebookconnect']); /* Facebook Connect */
+    unset($_links['twitterconnect']); /* Twitter Connect */
 ?> 
 ```
 
